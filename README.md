@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cs4.pikabu.ru/post_img/2014/10/06/10/1412608701_1062746597.gif" width="500" height="200" alt="Coding">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="200" alt="Coding">
 </div>
 
 <h1 align="center">
@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  <span><b>Senior Developer | 19 y.o. | Digital Art Creator</b></span>
+  <b>Senior Developer | 19 y.o. | Digital Art Creator</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </div>
 
