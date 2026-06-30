@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://moewalls.com/wp-content/uploads/2026/06/neko-anime-girl-looking-at-you-thumb.jpg" width="800" height="400" alt="Anime 4K">
+  <img src="https://images.cybersport.ru/images/as-is/plain/f1/f15d93b8-f9c1-462f-9008-5b62e52fb604.png" width="400" height="400" alt="SCANDER" style="border-radius: 50%; border: 4px solid #6C63FF;">
 </div>
 
 <h1 align="center">
@@ -7,9 +7,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   <b>Senior Developer | 20 y.o. | Digital Art Creator</b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </div>
 
 ---
@@ -38,57 +36,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🛠 Frameworks & Libraries
+### 🛠 Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🧰 Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SCAND3RS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SCAND3RS&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SCAND3RS&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</div>
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-### 🔥 Smart Home System
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SCAND3RS&repo=smart-home-system&show_owner=true&theme=tokyonight)](https://github.com/SCAND3RS/smart-home-system)
-
-### 💰 Crypto App
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SCAND3RS&repo=crypto-app&show_owner=true&theme=tokyonight)](https://github.com/SCAND3RS/crypto-app)
-
-### 🛒 E-commerce Website
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SCAND3RS&repo=e-commerce-site&show_owner=true&theme=tokyonight)](https://github.com/SCAND3RS/e-commerce-site)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-![SCAND3RS's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SCAND3RS&theme=tokyonight)
 
 ---
 
@@ -105,11 +59,29 @@
 
 ---
 
-## 📊 Project Statistics
+## 🌐 Connect with Me
 
-```mermaid
-pie
-    "Full-Stack" : 15
-    "Frontend" : 8
-    "Backend" : 6
-    "Mobile" : 3
+<div align="center">
+  <a href="https://github.com/SCAND3RS">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:scandertwink@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/SCAND3RS">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SCAND3RS&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/SCAND3RS?style=social" alt="Followers" />
+</div>
+
+---
+
+<div align="center">
+  <b>Made with ❤️ by SCANDER</b>
+</div>
