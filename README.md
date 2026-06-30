@@ -3,12 +3,12 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Roman+(SCANDER)!;19+years+old+Senior+Dev;32+projects+completed;6+languages+spoken" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Roman+(SCANDER)!;20+years+old+Senior+Dev;32+projects+completed;6+languages+spoken" alt="Typing SVG" />
 </h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  <b>Senior Developer | 19 y.o. | Digital Art Creator</b>
+  <b>Senior Developer | 20 y.o. | Digital Art Creator</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </div>
 
@@ -18,7 +18,7 @@
 
 **Hey, I'm Roman (SCANDER)!** 👋
 
-- 🎯 **Age:** 19 years old
+- 🎯 **Age:** 20 years old
 - 💼 **Title:** Senior Developer
 - 📍 **Location:** Warszawa, Poland
 - 🚀 **Projects:** 32 completed
