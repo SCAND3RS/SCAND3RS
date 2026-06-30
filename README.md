@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="200" alt="Coding">
+  <img src="https://moewalls.com/wp-content/uploads/2026/06/neko-anime-girl-looking-at-you-thumb.jpg" width="800" height="400" alt="Anime 4K">
 </div>
 
 <h1 align="center">
@@ -71,14 +71,18 @@
 
 ## 🏆 Featured Projects
 
+<div align="center">
+
 ### 🔥 Smart Home System
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SCAND3RS&repo=smart-home-system&theme=tokyonight)](https://github.com/SCAND3RS/smart-home-system)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SCAND3RS&repo=smart-home-system&show_owner=true&theme=tokyonight)](https://github.com/SCAND3RS/smart-home-system)
 
 ### 💰 Crypto App
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SCAND3RS&repo=crypto-app&theme=tokyonight)](https://github.com/SCAND3RS/crypto-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SCAND3RS&repo=crypto-app&show_owner=true&theme=tokyonight)](https://github.com/SCAND3RS/crypto-app)
 
 ### 🛒 E-commerce Website
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SCAND3RS&repo=e-commerce-site&theme=tokyonight)](https://github.com/SCAND3RS/e-commerce-site)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SCAND3RS&repo=e-commerce-site&show_owner=true&theme=tokyonight)](https://github.com/SCAND3RS/e-commerce-site)
+
+</div>
 
 ---
 
