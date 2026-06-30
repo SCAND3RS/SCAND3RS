@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://images.cybersport.ru/images/as-is/plain/f1/f15d93b8-f9c1-462f-9008-5b62e52fb604.png" width="800" height="400" alt="SCANDER Banner" style="border-radius: 16px; border: 2px solid #6C63FF;">
+  <img src="https://images.cybersport.ru/images/as-is/plain/f1/f15d93b8-f9c1-462f-9008-5b62e52fb604.png" width="800" height="350" alt="SCANDER Banner" style="border-radius: 16px; border: 2px solid #6C63FF;">
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Roman+(SCANDER)!;20+years+old+Senior+Dev;32+projects+completed;6+languages+spoken" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Roman+(SCANDER)!;20+years+old+Senior+Dev;32+projects+completed;6+languages+spoken" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -67,29 +67,6 @@
 
 ---
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-### 🔥 Smart Home System
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SCAND3RS&repo=smart-home-system&show_owner=true&theme=tokyonight)](https://github.com/SCAND3RS/smart-home-system)
-
-### 💰 Crypto App
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SCAND3RS&repo=crypto-app&show_owner=true&theme=tokyonight)](https://github.com/SCAND3RS/crypto-app)
-
-### 🛒 E-commerce Website
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SCAND3RS&repo=e-commerce-site&show_owner=true&theme=tokyonight)](https://github.com/SCAND3RS/e-commerce-site)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-![SCAND3RS's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SCAND3RS&theme=tokyonight)
-
----
-
 ## 🌍 Languages Spoken
 
 | Language | Level |
@@ -106,11 +83,8 @@
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://github.com/SCAND3RS">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="mailto:scandertwink@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://t.me/SCAND3R">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
