@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://images.cybersport.ru/images/as-is/plain/f1/f15d93b8-f9c1-462f-9008-5b62e52fb604.png](https://artfiles.alphacoders.com/113/113159.jpg)" width="800" height="350" alt="SCANDER Banner" style="border-radius: 16px; border: 2px solid #6C63FF;">
+  <img src="https://images.cybersport.ru/images/as-is/plain/f1/f15d93b8-f9c1-462f-9008-5b62e52fb604.png" width="800" height="350" alt="SCANDER Banner" style="border-radius: 16px; border: 2px solid #6C63FF;">
 </div>
 
 <h1 align="center">
